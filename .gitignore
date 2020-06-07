@@ -1,4 +1,9 @@
 node_modules/
+uploads/*
+!uploads/.gitkeep
+
+*.sqlite
+
 package-json.lock
 comments.txt
 package-lock.json
