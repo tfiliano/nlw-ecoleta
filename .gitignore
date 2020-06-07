@@ -1,3 +1,6 @@
 node_modules/
 package-json.lock
 comments.txt
+package-lock.json
+yarn.lock
+yarn-error.log
